@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(127, 229, 255);
+}
+
+.forgotpassword{
+    padding: 5px;
+}
+
+.termss{
+    display: flex;
+    align-items: flex-end;
+    text-align: end;
+}
