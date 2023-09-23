@@ -6,8 +6,50 @@ body {
     padding: 5px;
 }
 
-.termss{
+body{
+    background-image: url(/imgs/fondofarm3.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    
+}
+
+.row {
+    width: 40rem;
+}
+
+.h-100{
     display: flex;
-    align-items: flex-end;
-    text-align: end;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center;
+}
+
+.imgLogo{
+    display: flex;
+    justify-content: flex-end;
+    width: 80px;
+    padding-bottom: 20px;
+}
+
+.pb-1{
+    display: flex;
+    justify-content: center;
+}
+
+.g-0{
+    width: 1px;
+}
+
+form{
+    width: 25rem;
+}
+
+button{
+    color: aquamarine;
+}
+
+.btn{
+    background-color: rgb(0, 200, 255);
+    color: rgb(50, 47, 254);
+    border-color: rgb(0, 200, 255);
 }
